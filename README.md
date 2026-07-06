@@ -232,7 +232,6 @@ Docker Hub: https://hub.docker.com/u/shamel1012
 
 ## ScreenShots
 ![Example Image](screenshots/1.png) <br>
-![Example Image](screenshots/2-2.png) <br>
 ![Example Image](screenshots/3-3.png) <br>
 ![Example Image](screenshots/4-4.png) <br>
 ![Example Image](screenshots/5-5.png) <br>
